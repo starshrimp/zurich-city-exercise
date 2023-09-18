@@ -1,0 +1,12 @@
+GEM
+  specs:
+    table_print (1.5.7)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  table_print
+
+BUNDLED WITH
+   2.4.19
