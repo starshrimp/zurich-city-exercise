@@ -1,1 +1,1 @@
-gem 'table_print'
+gem 'table_display', '~> 2.1'

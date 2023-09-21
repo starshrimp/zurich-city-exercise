@@ -1,12 +1,12 @@
 GEM
   specs:
-    table_print (1.5.7)
+    table_display (2.2.0)
 
 PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  table_print
+  table_display (~> 2.1)
 
 BUNDLED WITH
    2.4.19
